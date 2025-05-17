@@ -16,7 +16,8 @@ Depends:
 Imports:
     numDeriv,
     MASS,
-    ggplot2
+    ggplot2,
+    reformulas
 Suggests:
     pbkrtest (>= 0.4-3),
     tools
